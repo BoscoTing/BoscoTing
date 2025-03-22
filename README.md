@@ -17,7 +17,7 @@ class Engineer:
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BoscoTing&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boscoting&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/BoscoTing?theme=nord)
 
