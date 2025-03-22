@@ -9,8 +9,6 @@ class Engineer:
 
 - 🌱 I’m currently learning Java and big data tools
 
-- 📝 I keep some learning notes on my [**Blog**](https://boscoting.github.io/)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
