@@ -17,6 +17,4 @@ class Engineer:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boscoting&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/BoscoTing?theme=nord)
-
 Connect with me on [LinkedIn](https://linkedin.com/in/BoscoTing)
